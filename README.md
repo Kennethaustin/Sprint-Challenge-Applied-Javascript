@@ -41,7 +41,7 @@ the trigger to run a callback for an element when specified events occur
 4. Why would we convert a NodeList into an Array?
 It allows us to use array properties and methods
 5. What is a component?
-multi-fuctional Reusable coding
+multi-fuctional Reusable coding that have functionality
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
